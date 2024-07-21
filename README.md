@@ -1,2 +1,5 @@
 # ABC2024
-This collaborative space is designed for hosting a variety of applications developed by our talented interns during their summer internship.
+Repository pentru administrare
+## Setup
+Cloneaza repository ul aferent taskului la care esti asignat in tabul de Projects. 
+Creeaza un pull request cand lucrezi la un task si ofera review-uriile la care ai fost asignat
